@@ -1,6 +1,6 @@
 # Exploration-Analysis
 
-The 2008 flight dataset found in Data Expo 2009 - Airline on-time performance(https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009) contains reports of flights in the United States, including features like Year, Month, Day of Month, Day of Week, Departure time, CRS departure time, Arrival time, CRS Arr time, Unique Carrier, Flight number, etc. Initially, this dataset first consisted of 2389217 entries with 29 features. The main features for this investigation only need 12 variables; therefore, extracting these features from the flight data was necessary to simplify the process. The new dataset new_flight embodies the same number of entries with 12 columns.
+The 2008 flight dataset found in Data Expo 2009 - Airline on-time performance (https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009) contains reports of flights in the United States, including features like Year, Month, Day of Month, Day of Week, Departure time, CRS departure time, Arrival time, CRS Arr time, Unique Carrier, Flight number, etc. Initially, this dataset first consisted of 2389217 entries with 29 features. The main features for this investigation only need 12 variables; therefore, extracting these features from the flight data was necessary to simplify the process. The new dataset new_flight embodies the same number of entries with 12 columns.
 
 
 ## Summary of Findings
